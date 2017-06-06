@@ -1,0 +1,25 @@
+.hijau {
+    background-color: green;
+    color: white;
+}
+
+.merah {
+    background-color: red;
+}
+
+.oranye {
+    background-color: orange;
+}
+
+.banner {
+    height: 100px;
+}
+
+.menu {
+    height: 50px;
+}
+
+.besar {
+    background-color: cadetblue;
+    height: 40px;
+}
